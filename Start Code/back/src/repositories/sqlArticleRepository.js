@@ -7,6 +7,7 @@
 // Get all articles
 export async function getArticles() {
     // TODO
+    
 }
 
 // Get one article by ID

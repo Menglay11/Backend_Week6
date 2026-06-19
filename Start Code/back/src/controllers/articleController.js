@@ -2,6 +2,7 @@ import * as articleRepository from "../repositories/mockArticleRepository.js";
 
 // TODO : Change articleRepository to use the sqlArticleRepository
 
+
 // GET /api/articles
 export async function getAllArticles(req, res) {
   try {
